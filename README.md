@@ -4,7 +4,7 @@
 
 ## 1. Objetivo
 
-Conseguir verificar a direção na qual a pessoa está olhando
+Conseguir verificar a direção na qual a pessoa esteja olhando.
 
 ## 2. Captação dos Landmarks Faciais
 

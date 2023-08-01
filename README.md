@@ -11,7 +11,6 @@ Conseguir verificar a direção na qual a pessoa esteja olhando.
 - A partir da biblioteca MediaPipe, há a possibilidade de captura de toda a malha facial e seus respectivos Landmarks
   - https://github.com/google/mediapipe/blob/a908d668c730da128dfa8d9f6bd25d519d006692/mediapipe/modules/face_geometry/data/canonical_face_model_uv_visualization.png
 - As coordenadas X e Y chegam normalizadas, então trata-se os dados para a sua forma real
-  - https://github.com/google/mediapipe/blob/master/docs/solutions/face_mesh.md#:~:text=x%20and%20y%20are%20normalized%20to%20%5B0.0%2C%201.0%5D%20by%20the%20image%20width%20and%20height%20respectively
 
 ## 3. Seleção dos Landmarks da Íris e do Olho
 

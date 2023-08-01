@@ -29,7 +29,7 @@ Conseguir verificar a direção na qual a pessoa esteja olhando.
   - Ex.: Se fosse o olho esquerdo seria 362 e 263
 - Calcula a distância do centro da íris até um dos pontos mais extremos do olho
 - Divide a distância do centro da íris até um dos extremos pela distância do extremo esquerdo até o extremo direito do olho em questão
-- A partir dessa divisão obtemos o ratio que será usado para distinguir se há pessoa está olhando para a esquerda, direta ou para o centro
+- A partir dessa divisão obtemos o ratio que será usado para distinguir se a pessoa está olhando para a esquerda, direta ou para o centro
 
 ## Próximos Passos / Em Andamento
 
